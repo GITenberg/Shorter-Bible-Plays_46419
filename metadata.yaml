@@ -1,0 +1,30 @@
+_repo: Shorter-Bible-Plays_46419
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 46419-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Benton, Rita
+    alias: Benton, Caroline Rita
+    birthdate: 1881
+    gutenberg_agent_id: '43775'
+    url: http://www.gutenberg.org/2009/agents/43775
+description: ''
+gutenberg_issued: '2014-07-26'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '46419'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PN'
+- !lcsh 'Bible plays'
+tableOfContents: Editor's introduction -- Noah's flood -- The proving of Abraham --
+  Moses in the bulrushes -- Up, up from Egypt to the promised land -- The call of
+  Samuel -- David and Goliath -- The judgment of Solomon (longer version) -- The judgment
+  of Solomon (shorter version) -- The good Samaritan -- Manger service.
+title: Shorter Bible Plays
+url: http://www.gutenberg.org/ebooks/46419
