@@ -11,6 +11,8 @@ creator:
     gutenberg_agent_id: '43775'
     url: http://www.gutenberg.org/2009/agents/43775
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/46419#Shorter-Bible-Plays
 gutenberg_issued: '2014-07-26'
 gutenberg_type: Text
 identifiers:
